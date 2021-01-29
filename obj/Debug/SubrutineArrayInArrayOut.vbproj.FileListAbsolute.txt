@@ -1,0 +1,11 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\bin\Debug\SubrutineArrayInArrayOut.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\bin\Debug\SubrutineArrayInArrayOut.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\bin\Debug\SubrutineArrayInArrayOut.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\bin\Debug\SubrutineArrayInArrayOut.xml
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\obj\Debug\SubrutineArrayInArrayOut.vbprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\obj\Debug\SubrutineArrayInArrayOut.Resources.resources
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\obj\Debug\SubrutineArrayInArrayOut.vbproj.GenerateResource.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\obj\Debug\SubrutineArrayInArrayOut.vbproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\obj\Debug\SubrutineArrayInArrayOut.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\obj\Debug\SubrutineArrayInArrayOut.xml
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\SubrutineArrayInArrayOut\obj\Debug\SubrutineArrayInArrayOut.pdb
